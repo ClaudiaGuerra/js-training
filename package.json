@@ -1,0 +1,22 @@
+{
+  "name": "js-training-claudia",
+  "version": "1.0.0",
+  "description": "Node project for JS training for Claudia QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinMelo97/js-training-claudia.git"
+  },
+  "author": "Martin Melo <martinmelo@actosoft.com.mx>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinMelo97/js-training-claudia/issues"
+  },
+  "homepage": "https://github.com/MartinMelo97/js-training-claudia#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
