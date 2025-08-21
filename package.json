@@ -1,0 +1,30 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "Node project for JS training",
+  "keywords": [
+    "Node",
+    "project",
+    "for",
+    "JS",
+    "training"
+  ],
+  "homepage": "https://github.com/ClaudiaGuerra/js-training#readme",
+  "bugs": {
+    "url": "https://github.com/ClaudiaGuerra/js-training/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiaGuerra/js-training.git"
+  },
+  "license": "ISC",
+  "author": "Claudia Guerra <claudiagbak@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
