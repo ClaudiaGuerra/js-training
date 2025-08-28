@@ -1,7 +1,9 @@
 /*
 Objetivo: Calcular el promedio de 3 calificaciones
-Entrada: 
-    - Calificaciones (número)
+Entrada:
+    - cal1 (número)
+    - cal2 (número)
+    - cal3 (número)
 Salida:
     - Promedio (número)
 */
@@ -17,8 +19,8 @@ const cal3 = Number(prompt('Por favor, ingresa la tercera calificación: '));
 // Comprueba el tipo de dato con typeof
 console.log('Las calificaciones son del tipo:', 'Calificación 1:', typeof cal1, ', Calificación 2:', typeof cal2, ', Calificación 3:', typeof cal3, );
 
-// 2. Calcula el promedio 
+// 2. Calcula el promedio
 const promedio = (cal1 + cal2 + cal3)/3;
 
-// 3. Imprime el promedio 
+// 3. Imprime el promedio
 console.log('El promedio es: ', promedio);
